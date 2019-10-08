@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Naoray\\LaravelPackageMaker\\": "./src"
+      "Yashiroiori\\LaravelPackageMaker\\": "./src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Naoray\\LaravelPackageMaker\\Tests\\": "tests"
+      "Yashiroiori\\LaravelPackageMaker\\Tests\\": "tests"
     }
   },
   "scripts": {
@@ -33,7 +33,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Naoray\\LaravelPackageMaker\\LaravelPackageMakerServiceProvider"
+        "Yashiroiori\\LaravelPackageMaker\\LaravelPackageMakerServiceProvider"
       ]
     }
   },
