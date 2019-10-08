@@ -1,9 +1,9 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Commands\Standard;
+namespace Yashiroiori\LaravelPackageMaker\Commands\Standard;
 
 use Illuminate\Console\Command;
-use Naoray\LaravelPackageMaker\Traits\HasNameInput;
+use Yashiroiori\LaravelPackageMaker\Traits\HasNameInput;
 
 class ContractMakeCommand extends Command
 {

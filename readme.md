@@ -205,8 +205,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
-- [Krishan König](https://github.com/naoray)
-- [All Contributors](https://github.com/naoray/laravel-package-maker/contributors)
+- [Krishan König](https://github.com/yashiroiori)
+- [All Contributors](https://github.com/yashiroiori/laravel-package-maker/contributors)
 
 ## Security
 If you discover any security-related issues, please email krishan.koenig@googlemail.com instead of using the issue tracker.

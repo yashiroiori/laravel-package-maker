@@ -1,6 +1,6 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Traits;
+namespace Yashiroiori\LaravelPackageMaker\Traits;
 
 use Symfony\Component\Console\Input\InputOption;
 

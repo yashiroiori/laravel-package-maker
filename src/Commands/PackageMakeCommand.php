@@ -1,6 +1,6 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Commands;
+namespace Yashiroiori\LaravelPackageMaker\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;

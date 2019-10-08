@@ -1,9 +1,9 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Commands\Database;
+namespace Yashiroiori\LaravelPackageMaker\Commands\Database;
 
-use Naoray\LaravelPackageMaker\Traits\HasNameInput;
-use Naoray\LaravelPackageMaker\Traits\CreatesPackageStubs;
+use Yashiroiori\LaravelPackageMaker\Traits\HasNameInput;
+use Yashiroiori\LaravelPackageMaker\Traits\CreatesPackageStubs;
 use Illuminate\Database\Console\Seeds\SeederMakeCommand as MakeSeeder;
 
 class SeederMakeCommand extends MakeSeeder

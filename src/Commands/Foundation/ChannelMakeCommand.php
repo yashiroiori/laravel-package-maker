@@ -1,9 +1,9 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Commands\Foundation;
+namespace Yashiroiori\LaravelPackageMaker\Commands\Foundation;
 
-use Naoray\LaravelPackageMaker\Traits\HasNameInput;
-use Naoray\LaravelPackageMaker\Traits\CreatesPackageStubs;
+use Yashiroiori\LaravelPackageMaker\Traits\HasNameInput;
+use Yashiroiori\LaravelPackageMaker\Traits\CreatesPackageStubs;
 use Illuminate\Foundation\Console\ChannelMakeCommand as MakeChannel;
 
 class ChannelMakeCommand extends MakeChannel

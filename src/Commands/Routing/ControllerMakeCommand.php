@@ -1,9 +1,9 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Commands\Routing;
+namespace Yashiroiori\LaravelPackageMaker\Commands\Routing;
 
-use Naoray\LaravelPackageMaker\Traits\HasNameInput;
-use Naoray\LaravelPackageMaker\Traits\CreatesPackageStubs;
+use Yashiroiori\LaravelPackageMaker\Traits\HasNameInput;
+use Yashiroiori\LaravelPackageMaker\Traits\CreatesPackageStubs;
 use Illuminate\Routing\Console\ControllerMakeCommand as MakeController;
 
 class ControllerMakeCommand extends MakeController
