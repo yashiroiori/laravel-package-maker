@@ -24,7 +24,7 @@ I hate creating new controllers, middlewares, ... by copy & paste. Wouldn't it b
 ```
 
 ## Install
-`composer require naoray/laravel-package-maker --dev`
+`composer require yashiroiori/laravel-package-maker --dev`
 
 ## Usage
 - [laravel-package-maker](#laravel-package-maker)
